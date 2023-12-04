@@ -1,3 +1,3 @@
 $(function() {
   $('#target').addClass('heading');
-})
+});
